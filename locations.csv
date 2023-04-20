@@ -1,4 +1,4 @@
-,location_id,country.id,country_name,state_id,state_name,city_id,city_name,school,school_id
+,location_id,country_id,country_name,state_id,state_name,city_id,city_name,school,school_id
 0,15743,1.0,United States,34.0,New York,1507.0,NYC,flatiron-school,10748
 1,16257,,,1.0,Online,,,flatiron-school,10748
 2,16761,1.0,United States,7.0,Colorado,27.0,Denver,flatiron-school,10748

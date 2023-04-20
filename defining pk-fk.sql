@@ -1,7 +1,10 @@
 ALTER TABLE project.comments
 ADD PRIMARY KEY (comment_id);
 
-ALTER TABLE project.course_name
+ALTER TABLE project.badge_id
+ADD PRIMARY KEY (badge_id);
+
+ALTER TABLE project.course_list
 ADD PRIMARY KEY (course_id);	
 
 ALTER TABLE project.badge_id
@@ -28,7 +31,8 @@ ALTER TABLE locations
 ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id);
 
 ALTER TABLE courses
-ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id);
+ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id),
+ADD CONSTRAINT FOREIGN KEY (course_id) REFERENCES course_list(course_id);
 
 
 

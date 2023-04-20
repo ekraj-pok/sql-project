@@ -1,26 +1,26 @@
-,name,keyword,description,school,school_id
-0,Available Online,available_online,School offers fully online courses,flatiron-school,10748
-1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,flatiron-school,10748
-2,Flexible Classes,flexible_classes,School offers part-time and evening classes,flatiron-school,10748
-3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,flatiron-school,10748
-0,Available Online,available_online,School offers fully online courses,general-assembly,10761
-1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,general-assembly,10761
-2,Flexible Classes,flexible_classes,School offers part-time and evening classes,general-assembly,10761
-3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,general-assembly,10761
-0,Available Online,available_online,School offers fully online courses,data-science-dojo,10685
-1,Flexible Classes,flexible_classes,School offers part-time and evening classes,data-science-dojo,10685
-0,Available Online,available_online,School offers fully online courses,ironhack,10828
-1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,ironhack,10828
-2,Flexible Classes,flexible_classes,School offers part-time and evening classes,ironhack,10828
-0,Available Online,available_online,School offers fully online courses,le-wagon,10868
-1,Flexible Classes,flexible_classes,School offers part-time and evening classes,le-wagon,10868
-0,Available Online,available_online,School offers fully online courses,wild-code-school,11169
-1,Flexible Classes,flexible_classes,School offers part-time and evening classes,wild-code-school,11169
-0,Available Online,available_online,School offers fully online courses,the-dev-masters,11077
-0,Available Online,available_online,School offers fully online courses,byte-academy,10574
-1,Flexible Classes,flexible_classes,School offers part-time and evening classes,byte-academy,10574
-0,Available Online,available_online,School offers fully online courses,the-data-incubator,11074
-1,Flexible Classes,flexible_classes,School offers part-time and evening classes,the-data-incubator,11074
-0,Available Online,available_online,School offers fully online courses,brainstation,10571
-1,Flexible Classes,flexible_classes,School offers part-time and evening classes,brainstation,10571
-2,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,brainstation,10571
+,name,keyword,description,school,school_id,badge_id
+0,Available Online,available_online,School offers fully online courses,flatiron-school,10748,101
+1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,flatiron-school,10748,102
+2,Flexible Classes,flexible_classes,School offers part-time and evening classes,flatiron-school,10748,103
+3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,flatiron-school,10748,104
+0,Available Online,available_online,School offers fully online courses,general-assembly,10761,101
+1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,general-assembly,10761,102
+2,Flexible Classes,flexible_classes,School offers part-time and evening classes,general-assembly,10761,103
+3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,general-assembly,10761,104
+0,Available Online,available_online,School offers fully online courses,data-science-dojo,10685,101
+1,Flexible Classes,flexible_classes,School offers part-time and evening classes,data-science-dojo,10685,103
+0,Available Online,available_online,School offers fully online courses,ironhack,10828,101
+1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,ironhack,10828,102
+2,Flexible Classes,flexible_classes,School offers part-time and evening classes,ironhack,10828,103
+0,Available Online,available_online,School offers fully online courses,le-wagon,10868,101
+1,Flexible Classes,flexible_classes,School offers part-time and evening classes,le-wagon,10868,103
+0,Available Online,available_online,School offers fully online courses,wild-code-school,11169,101
+1,Flexible Classes,flexible_classes,School offers part-time and evening classes,wild-code-school,11169,103
+0,Available Online,available_online,School offers fully online courses,the-dev-masters,11077,101
+0,Available Online,available_online,School offers fully online courses,byte-academy,10574,101
+1,Flexible Classes,flexible_classes,School offers part-time and evening classes,byte-academy,10574,103
+0,Available Online,available_online,School offers fully online courses,the-data-incubator,11074,101
+1,Flexible Classes,flexible_classes,School offers part-time and evening classes,the-data-incubator,11074,103
+0,Available Online,available_online,School offers fully online courses,brainstation,10571,101
+1,Flexible Classes,flexible_classes,School offers part-time and evening classes,brainstation,10571,103
+2,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,brainstation,10571,104

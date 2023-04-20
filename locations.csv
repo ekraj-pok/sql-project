@@ -1,111 +1,111 @@
 ,location_id,country_name,state_name,city_name,school,school_id
-0,15743,United States,New York,NYC,flatiron-school,10748
-1,16257,,Online,,flatiron-school,10748
-2,16761,United States,Colorado,Denver,flatiron-school,10748
-3,16958,United Kingdom,,London,flatiron-school,10748
-0,16360,United States,New York,NYC,general-assembly,10761
-1,16372,,Online,,general-assembly,10761
-0,15968,United States,Washington,Seattle,data-science-dojo,10685
-1,15995,United States,District of Columbia,Washington D.C.,data-science-dojo,10685
-2,16101,United States,Texas,Austin,data-science-dojo,10685
-3,16103,United States,New York,NYC,data-science-dojo,10685
-4,16737,Spain,,Barcelona,data-science-dojo,10685
-5,16740,Singapore,,Singapore,data-science-dojo,10685
-6,17042,United States,New Mexico,Albuquerque,data-science-dojo,10685
-7,17235,,Online,,data-science-dojo,10685
-0,15901,Germany,,Berlin,ironhack,10828
-1,16022,Mexico,,Mexico City,ironhack,10828
-2,16086,Netherlands,,Amsterdam,ironhack,10828
-3,16088,Brazil,,Sao Paulo,ironhack,10828
-4,16109,France,,Paris,ironhack,10828
-5,16375,United States,Florida,Miami,ironhack,10828
-6,16376,Spain,,Madrid,ironhack,10828
-7,16377,Spain,,Barcelona,ironhack,10828
-8,16709,Portugal,,Lisbon,ironhack,10828
-9,17233,,Online,,ironhack,10828
-0,15803,Australia,,Melbourne,le-wagon,10868
-1,15904,Morocco,,Casablanca,le-wagon,10868
-2,15906,Argentina,,Buenos Aires,le-wagon,10868
-3,15964,Belgium,,Brussels,le-wagon,10868
-4,16039,Mexico,,Mexico City,le-wagon,10868
-5,16049,Netherlands,,Amsterdam,le-wagon,10868
-6,16106,Brazil,,Sao Paulo,le-wagon,10868
-7,16124,Spain,,Barcelona,le-wagon,10868
-8,16145,France,,Bordeaux,le-wagon,10868
-9,16147,France,,Lille,le-wagon,10868
-10,16148,Portugal,,Lisbon,le-wagon,10868
-11,16149,Indonesia,,Bali,le-wagon,10868
-12,16150,France,,Nantes,le-wagon,10868
-13,16274,Brazil,,Rio de Janeiro ,le-wagon,10868
-14,16275,France,,Marseille,le-wagon,10868
-15,16282,Canada,,Montreal,le-wagon,10868
-16,16283,China,,Shanghai,le-wagon,10868
-17,16407,Japan,,Tokyo,le-wagon,10868
-18,16408,France,,Lyon,le-wagon,10868
-19,16765,Germany,,Berlin,le-wagon,10868
-20,16767,France,,Paris,le-wagon,10868
-21,16776,Switzerland,,Lausanne,le-wagon,10868
-22,16800,Spain,,Madrid,le-wagon,10868
-23,16805,France,,Rennes,le-wagon,10868
-24,16936,Singapore,,Singapore,le-wagon,10868
-25,16967,England,,London,le-wagon,10868
-26,17314,United Arab Emirates,,Dubai,le-wagon,10868
-27,17395,Germany,,Munich,le-wagon,10868
-28,17476,Chile,,Santiago,le-wagon,10868
-29,17765,France,,Nice,le-wagon,10868
-30,17772,Germany,,Cologne,le-wagon,10868
-31,18077,Mauritius,,Mauritius,le-wagon,10868
-32,18117,,Online,,le-wagon,10868
-33,18128,Switzerland,,Zurich,le-wagon,10868
-34,18194,Portugal,,Porto,le-wagon,10868
-35,18195,South Africa,,Cape Town,le-wagon,10868
-36,18295,France,,Toulouse,le-wagon,10868
-0,16809,France,,Paris,wild-code-school,11169
-1,16811,Belgium,,Brussels,wild-code-school,11169
-2,16813,Germany,,Berlin,wild-code-school,11169
-3,16814,France,,La Loupe,wild-code-school,11169
-4,16815,Romania,,Bucharest,wild-code-school,11169
-5,16816,France,,Lille,wild-code-school,11169
-6,16817,France,,Lyon,wild-code-school,11169
-7,16819,France,,Marseille,wild-code-school,11169
-8,17132,France,,Biarritz,wild-code-school,11169
-9,17133,France,,Bordeaux,wild-code-school,11169
-10,17134,France,,Nantes,wild-code-school,11169
-11,17135,France,,Orléans,wild-code-school,11169
-12,17136,France,,Reims,wild-code-school,11169
-13,17137,France,,Strasbourg,wild-code-school,11169
-14,17138,France,,Toulouse,wild-code-school,11169
-15,17139,France,,Tours,wild-code-school,11169
-16,17140,Hungary,,Budapest,wild-code-school,11169
-17,17141,Ireland,,Dublin,wild-code-school,11169
-18,17142,Portugal,,Lisbon,wild-code-school,11169
-19,17143,England,,London,wild-code-school,11169
-20,17144,Spain,,Madrid,wild-code-school,11169
-21,17145,Italy,,Milan,wild-code-school,11169
-22,17146,Netherlands,,Amsterdam,wild-code-school,11169
-23,17147,Spain,,Barcelona,wild-code-school,11169
-24,17472,,Online,,wild-code-school,11169
-25,17473,Belgium,,Bruxelles,wild-code-school,11169
-0,16040,United States,California,Santa Monica,the-dev-masters,11077
-1,16059,United States,California,Los Angeles,the-dev-masters,11077
-2,16985,United States,California,Irvine,the-dev-masters,11077
-3,17159,United States,California,Playa Vista,the-dev-masters,11077
-4,17160,United States,California,San Diego,the-dev-masters,11077
-5,17161,United States,California,Walnut Creek,the-dev-masters,11077
-6,17162,United States,Washington,Lacey,the-dev-masters,11077
-0,15898,United States,New York,NYC,byte-academy,10574
-1,16016,India,,Bangalore,byte-academy,10574
-2,16017,,Online,,byte-academy,10574
-0,16078,United States,New York,NYC,the-data-incubator,11074
-1,16080,United States,California,San Francisco,the-data-incubator,11074
-2,16082,United States,District of Columbia,Washington D.C.,the-data-incubator,11074
-3,16083,United States,Massachusetts,Boston,the-data-incubator,11074
-4,16084,,Online,,the-data-incubator,11074
-0,15935,United States,New York,NYC,brainstation,10571
-1,15985,Canada,Ontario,Toronto,brainstation,10571
-2,16010,Canada,British Columbia,Vancouver,brainstation,10571
-3,16909,United States,Massachusetts,Boston,brainstation,10571
-4,16910,United States,Illinois,Chicago,brainstation,10571
-5,16940,,Online,,brainstation,10571
-6,17706,United States,Florida,Miami,brainstation,10571
-7,17731,United Kingdom,,London,brainstation,10571
+0,15743,United States,New York,NYC,Flatiron School,10748
+1,16257,,Online,,Flatiron School,10748
+2,16761,United States,Colorado,Denver,Flatiron School,10748
+3,16958,United Kingdom,,London,Flatiron School,10748
+0,16360,United States,New York,NYC,General Assembly,10761
+1,16372,,Online,,General Assembly,10761
+0,15968,United States,Washington,Seattle,Data Science Dojo,10685
+1,15995,United States,District of Columbia,Washington D.C.,Data Science Dojo,10685
+2,16101,United States,Texas,Austin,Data Science Dojo,10685
+3,16103,United States,New York,NYC,Data Science Dojo,10685
+4,16737,Spain,,Barcelona,Data Science Dojo,10685
+5,16740,Singapore,,Singapore,Data Science Dojo,10685
+6,17042,United States,New Mexico,Albuquerque,Data Science Dojo,10685
+7,17235,,Online,,Data Science Dojo,10685
+0,15901,Germany,,Berlin,Ironhack,10828
+1,16022,Mexico,,Mexico City,Ironhack,10828
+2,16086,Netherlands,,Amsterdam,Ironhack,10828
+3,16088,Brazil,,Sao Paulo,Ironhack,10828
+4,16109,France,,Paris,Ironhack,10828
+5,16375,United States,Florida,Miami,Ironhack,10828
+6,16376,Spain,,Madrid,Ironhack,10828
+7,16377,Spain,,Barcelona,Ironhack,10828
+8,16709,Portugal,,Lisbon,Ironhack,10828
+9,17233,,Online,,Ironhack,10828
+0,15803,Australia,,Melbourne,Le Wagon,10868
+1,15904,Morocco,,Casablanca,Le Wagon,10868
+2,15906,Argentina,,Buenos Aires,Le Wagon,10868
+3,15964,Belgium,,Brussels,Le Wagon,10868
+4,16039,Mexico,,Mexico City,Le Wagon,10868
+5,16049,Netherlands,,Amsterdam,Le Wagon,10868
+6,16106,Brazil,,Sao Paulo,Le Wagon,10868
+7,16124,Spain,,Barcelona,Le Wagon,10868
+8,16145,France,,Bordeaux,Le Wagon,10868
+9,16147,France,,Lille,Le Wagon,10868
+10,16148,Portugal,,Lisbon,Le Wagon,10868
+11,16149,Indonesia,,Bali,Le Wagon,10868
+12,16150,France,,Nantes,Le Wagon,10868
+13,16274,Brazil,,Rio de Janeiro ,Le Wagon,10868
+14,16275,France,,Marseille,Le Wagon,10868
+15,16282,Canada,,Montreal,Le Wagon,10868
+16,16283,China,,Shanghai,Le Wagon,10868
+17,16407,Japan,,Tokyo,Le Wagon,10868
+18,16408,France,,Lyon,Le Wagon,10868
+19,16765,Germany,,Berlin,Le Wagon,10868
+20,16767,France,,Paris,Le Wagon,10868
+21,16776,Switzerland,,Lausanne,Le Wagon,10868
+22,16800,Spain,,Madrid,Le Wagon,10868
+23,16805,France,,Rennes,Le Wagon,10868
+24,16936,Singapore,,Singapore,Le Wagon,10868
+25,16967,England,,London,Le Wagon,10868
+26,17314,United Arab Emirates,,Dubai,Le Wagon,10868
+27,17395,Germany,,Munich,Le Wagon,10868
+28,17476,Chile,,Santiago,Le Wagon,10868
+29,17765,France,,Nice,Le Wagon,10868
+30,17772,Germany,,Cologne,Le Wagon,10868
+31,18077,Mauritius,,Mauritius,Le Wagon,10868
+32,18117,,Online,,Le Wagon,10868
+33,18128,Switzerland,,Zurich,Le Wagon,10868
+34,18194,Portugal,,Porto,Le Wagon,10868
+35,18195,South Africa,,Cape Town,Le Wagon,10868
+36,18295,France,,Toulouse,Le Wagon,10868
+0,16809,France,,Paris,Wild Code School,11169
+1,16811,Belgium,,Brussels,Wild Code School,11169
+2,16813,Germany,,Berlin,Wild Code School,11169
+3,16814,France,,La Loupe,Wild Code School,11169
+4,16815,Romania,,Bucharest,Wild Code School,11169
+5,16816,France,,Lille,Wild Code School,11169
+6,16817,France,,Lyon,Wild Code School,11169
+7,16819,France,,Marseille,Wild Code School,11169
+8,17132,France,,Biarritz,Wild Code School,11169
+9,17133,France,,Bordeaux,Wild Code School,11169
+10,17134,France,,Nantes,Wild Code School,11169
+11,17135,France,,Orléans,Wild Code School,11169
+12,17136,France,,Reims,Wild Code School,11169
+13,17137,France,,Strasbourg,Wild Code School,11169
+14,17138,France,,Toulouse,Wild Code School,11169
+15,17139,France,,Tours,Wild Code School,11169
+16,17140,Hungary,,Budapest,Wild Code School,11169
+17,17141,Ireland,,Dublin,Wild Code School,11169
+18,17142,Portugal,,Lisbon,Wild Code School,11169
+19,17143,England,,London,Wild Code School,11169
+20,17144,Spain,,Madrid,Wild Code School,11169
+21,17145,Italy,,Milan,Wild Code School,11169
+22,17146,Netherlands,,Amsterdam,Wild Code School,11169
+23,17147,Spain,,Barcelona,Wild Code School,11169
+24,17472,,Online,,Wild Code School,11169
+25,17473,Belgium,,Bruxelles,Wild Code School,11169
+0,16040,United States,California,Santa Monica,The Dev Masters,11077
+1,16059,United States,California,Los Angeles,The Dev Masters,11077
+2,16985,United States,California,Irvine,The Dev Masters,11077
+3,17159,United States,California,Playa Vista,The Dev Masters,11077
+4,17160,United States,California,San Diego,The Dev Masters,11077
+5,17161,United States,California,Walnut Creek,The Dev Masters,11077
+6,17162,United States,Washington,Lacey,The Dev Masters,11077
+0,15898,United States,New York,NYC,Byte Academy,10574
+1,16016,India,,Bangalore,Byte Academy,10574
+2,16017,,Online,,Byte Academy,10574
+0,16078,United States,New York,NYC,The Data Incubator,11074
+1,16080,United States,California,San Francisco,The Data Incubator,11074
+2,16082,United States,District of Columbia,Washington D.C.,The Data Incubator,11074
+3,16083,United States,Massachusetts,Boston,The Data Incubator,11074
+4,16084,,Online,,The Data Incubator,11074
+0,15935,United States,New York,NYC,Brainstation,10571
+1,15985,Canada,Ontario,Toronto,Brainstation,10571
+2,16010,Canada,British Columbia,Vancouver,Brainstation,10571
+3,16909,United States,Massachusetts,Boston,Brainstation,10571
+4,16910,United States,Illinois,Chicago,Brainstation,10571
+5,16940,,Online,,Brainstation,10571
+6,17706,United States,Florida,Miami,Brainstation,10571
+7,17731,United Kingdom,,London,Brainstation,10571

@@ -1,85 +1,85 @@
 ,school,school_id,course_name,course_id,course_type
-0,flatiron-school,10748,others,1001,in-class
-1,flatiron-school,10748,data analytics,1002,in-class
-2,flatiron-school,10748,ux/ui,1003,in-class
-3,flatiron-school,10748,others,1001,in-class
-4,flatiron-school,10748,others,1001,in-class
-5,flatiron-school,10748,others,1001,in-class
-6,flatiron-school,10748,data analytics,1002,in-class
-7,flatiron-school,10748,others,1001,in-class
-8,flatiron-school,10748,others,1001,online
-9,flatiron-school,10748,data analytics,1002,online
-10,flatiron-school,10748,others,1001,online
-0,general-assembly,10761,data analytics,1002,in-class
-1,general-assembly,10761,data analytics,1002,in-class
-2,general-assembly,10761,data analytics,1002,in-class
-3,general-assembly,10761,data analytics,1002,in-class
-4,general-assembly,10761,others,1001,in-class
-5,general-assembly,10761,web development,1004,in-class
-6,general-assembly,10761,others,1001,in-class
-7,general-assembly,10761,others,1001,in-class
-8,general-assembly,10761,web development,1004,in-class
-9,general-assembly,10761,others,1001,in-class
-10,general-assembly,10761,others,1001,in-class
-11,general-assembly,10761,others,1001,in-class
-12,general-assembly,10761,others,1001,in-class
-13,general-assembly,10761,others,1001,in-class
-0,data-science-dojo,10685,data analytics,1002,in-class
-1,data-science-dojo,10685,data analytics,1002,in-class
-2,data-science-dojo,10685,others,1001,in-class
-3,data-science-dojo,10685,data analytics,1002,in-class
-4,data-science-dojo,10685,data analytics,1002,in-class
-0,ironhack,10828,others,1001,in-class
-1,ironhack,10828,others,1001,in-class
-2,ironhack,10828,data analytics,1002,in-class
-3,ironhack,10828,data analytics,1002,in-class
-4,ironhack,10828,ux/ui,1003,in-class
-5,ironhack,10828,ux/ui,1003,in-class
-6,ironhack,10828,web development,1004,in-class
-7,ironhack,10828,web development,1004,in-class
-0,le-wagon,10868,data analytics,1002,in-class
-1,le-wagon,10868,data analytics,1002,in-class
-2,le-wagon,10868,web development,1004,in-class
-3,le-wagon,10868,web development,1004,in-class
-4,le-wagon,10868,data analytics,1002,in-class
-0,wild-code-school,11169,others,1001,in-class
-1,wild-code-school,11169,data analytics,1002,in-class
-2,wild-code-school,11169,others,1001,in-class
-3,wild-code-school,11169,others,1001,in-class
-4,wild-code-school,11169,others,1001,in-class
-5,wild-code-school,11169,data analytics,1002,in-class
-0,the-dev-masters,11077,data analytics,1002,in-class
-1,the-dev-masters,11077,data analytics,1002,in-class
-2,the-dev-masters,11077,others,1001,in-class
-3,the-dev-masters,11077,data analytics,1002,in-class
-0,byte-academy,10574,others,1001,in-class
-1,byte-academy,10574,data analytics,1002,in-class
-2,byte-academy,10574,others,1001,in-class
-3,byte-academy,10574,others,1001,in-class
-4,byte-academy,10574,others,1001,in-class
-5,byte-academy,10574,web development,1004,in-class
-6,byte-academy,10574,web development,1004,in-class
-7,byte-academy,10574,others,1001,in-class
-8,byte-academy,10574,others,1001,in-class
-0,the-data-incubator,11074,data analytics,1002,in-class
-1,the-data-incubator,11074,data analytics,1002,in-class
-2,the-data-incubator,11074,others,1001,in-class
-3,the-data-incubator,11074,data analytics,1002,in-class
-0,brainstation,10571,others,1001,in-class
-1,brainstation,10571,data analytics,1002,in-class
-2,brainstation,10571,data analytics,1002,in-class
-3,brainstation,10571,data analytics,1002,in-class
-4,brainstation,10571,others,1001,in-class
-5,brainstation,10571,others,1001,in-class
-6,brainstation,10571,others,1001,in-class
-7,brainstation,10571,others,1001,in-class
-8,brainstation,10571,others,1001,in-class
-9,brainstation,10571,others,1001,in-class
-10,brainstation,10571,others,1001,in-class
-11,brainstation,10571,others,1001,in-class
-12,brainstation,10571,others,1001,in-class
-13,brainstation,10571,others,1001,in-class
-14,brainstation,10571,others,1001,in-class
-15,brainstation,10571,others,1001,in-class
-16,brainstation,10571,web development,1004,in-class
-17,brainstation,10571,web development,1004,in-class
+0,Flatiron School,10748,others,1001,in-class
+1,Flatiron School,10748,data analytics,1002,in-class
+2,Flatiron School,10748,ux/ui,1003,in-class
+3,Flatiron School,10748,others,1001,in-class
+4,Flatiron School,10748,others,1001,in-class
+5,Flatiron School,10748,others,1001,in-class
+6,Flatiron School,10748,data analytics,1002,in-class
+7,Flatiron School,10748,others,1001,in-class
+8,Flatiron School,10748,others,1001,online
+9,Flatiron School,10748,data analytics,1002,online
+10,Flatiron School,10748,others,1001,online
+0,General Assembly,10761,data analytics,1002,in-class
+1,General Assembly,10761,data analytics,1002,in-class
+2,General Assembly,10761,data analytics,1002,in-class
+3,General Assembly,10761,data analytics,1002,in-class
+4,General Assembly,10761,others,1001,in-class
+5,General Assembly,10761,web development,1004,in-class
+6,General Assembly,10761,others,1001,in-class
+7,General Assembly,10761,others,1001,in-class
+8,General Assembly,10761,web development,1004,in-class
+9,General Assembly,10761,others,1001,in-class
+10,General Assembly,10761,others,1001,in-class
+11,General Assembly,10761,others,1001,in-class
+12,General Assembly,10761,others,1001,in-class
+13,General Assembly,10761,others,1001,in-class
+0,Data Science Dojo,10685,data analytics,1002,in-class
+1,Data Science Dojo,10685,data analytics,1002,in-class
+2,Data Science Dojo,10685,others,1001,in-class
+3,Data Science Dojo,10685,data analytics,1002,in-class
+4,Data Science Dojo,10685,data analytics,1002,in-class
+0,Ironhack,10828,others,1001,in-class
+1,Ironhack,10828,others,1001,in-class
+2,Ironhack,10828,data analytics,1002,in-class
+3,Ironhack,10828,data analytics,1002,in-class
+4,Ironhack,10828,ux/ui,1003,in-class
+5,Ironhack,10828,ux/ui,1003,in-class
+6,Ironhack,10828,web development,1004,in-class
+7,Ironhack,10828,web development,1004,in-class
+0,Le Wagon,10868,data analytics,1002,in-class
+1,Le Wagon,10868,data analytics,1002,in-class
+2,Le Wagon,10868,web development,1004,in-class
+3,Le Wagon,10868,web development,1004,in-class
+4,Le Wagon,10868,data analytics,1002,in-class
+0,Wild Code School,11169,others,1001,in-class
+1,Wild Code School,11169,data analytics,1002,in-class
+2,Wild Code School,11169,others,1001,in-class
+3,Wild Code School,11169,others,1001,in-class
+4,Wild Code School,11169,others,1001,in-class
+5,Wild Code School,11169,data analytics,1002,in-class
+0,The Dev Masters,11077,data analytics,1002,in-class
+1,The Dev Masters,11077,data analytics,1002,in-class
+2,The Dev Masters,11077,others,1001,in-class
+3,The Dev Masters,11077,data analytics,1002,in-class
+0,Byte Academy,10574,others,1001,in-class
+1,Byte Academy,10574,data analytics,1002,in-class
+2,Byte Academy,10574,others,1001,in-class
+3,Byte Academy,10574,others,1001,in-class
+4,Byte Academy,10574,others,1001,in-class
+5,Byte Academy,10574,web development,1004,in-class
+6,Byte Academy,10574,web development,1004,in-class
+7,Byte Academy,10574,others,1001,in-class
+8,Byte Academy,10574,others,1001,in-class
+0,The Data Incubator,11074,data analytics,1002,in-class
+1,The Data Incubator,11074,data analytics,1002,in-class
+2,The Data Incubator,11074,others,1001,in-class
+3,The Data Incubator,11074,data analytics,1002,in-class
+0,Brainstation,10571,others,1001,in-class
+1,Brainstation,10571,data analytics,1002,in-class
+2,Brainstation,10571,data analytics,1002,in-class
+3,Brainstation,10571,data analytics,1002,in-class
+4,Brainstation,10571,others,1001,in-class
+5,Brainstation,10571,others,1001,in-class
+6,Brainstation,10571,others,1001,in-class
+7,Brainstation,10571,others,1001,in-class
+8,Brainstation,10571,others,1001,in-class
+9,Brainstation,10571,others,1001,in-class
+10,Brainstation,10571,others,1001,in-class
+11,Brainstation,10571,others,1001,in-class
+12,Brainstation,10571,others,1001,in-class
+13,Brainstation,10571,others,1001,in-class
+14,Brainstation,10571,others,1001,in-class
+15,Brainstation,10571,others,1001,in-class
+16,Brainstation,10571,web development,1004,in-class
+17,Brainstation,10571,web development,1004,in-class

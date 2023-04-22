@@ -20,17 +20,17 @@ ALTER TABLE project.badges
 ADD CONSTRAINT school_id FOREIGN KEY (school_id) REFERENCES schools(school_id),
 ADD CONSTRAINT badge_id FOREIGN KEY (badge_id) REFERENCES badge_id(badge_id);
 
-ALTER TABLE comments
+ALTER TABLE project.comments
 ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id);
 
-ALTER TABLE courses
+ALTER TABLE project.courses
 ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id),
 ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id);
 
-ALTER TABLE locations
+ALTER TABLE project.locations
 ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id);
 
-ALTER TABLE courses
+ALTER TABLE project.courses
 ADD CONSTRAINT FOREIGN KEY (school_id) REFERENCES schools(school_id),
 ADD CONSTRAINT FOREIGN KEY (course_id) REFERENCES course_list(course_id);
 

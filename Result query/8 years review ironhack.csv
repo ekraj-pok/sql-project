@@ -1,0 +1,11 @@
+school_id,school,graduation_year,avg_overalL,avg_course,avg_support,overall_count,course_count,support_count
+10828,Ironhack,2023,4.18,4.24,3.82,17,17,17
+10828,Ironhack,2022,4.52,4.46,4.23,116,116,115
+10828,Ironhack,2021,4.64,4.57,4.37,89,89,89
+10828,Ironhack,2020,4.8,4.75,4.56,187,187,185
+10828,Ironhack,2019,4.8,4.7,4.8,217,217,216
+10828,Ironhack,2018,4.91,4.82,4.89,309,307,303
+10828,Ironhack,2017,4.91,4.81,4.9,198,195,192
+10828,Ironhack,2016,4.95,4.9,4.9,74,58,58
+10828,Ironhack,2015,4.93,4.72,4.89,28,18,18
+10828,Ironhack,2014,4.78,4.67,4.67,9,9,9

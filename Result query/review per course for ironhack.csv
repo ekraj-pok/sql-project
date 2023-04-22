@@ -1,0 +1,4 @@
+school_id,school,course_name,avg_overalL,avg_course,avg_support,overall_count,course_count,support_count
+10828,Ironhack,ux/ui,4.75,4.67,4.62,302,299,296
+10828,Ironhack,"web development",4.88,4.8,4.8,735,707,702
+10828,Ironhack,"data analytics",4.51,4.4,4.31,75,75,74
